@@ -31,4 +31,4 @@
     └── Skill.prefab                  // 技能格预制体（供 UIManager 动态生成技能格使用）
   /Resources
     └── SkillData
-         └── LHSkillData.asset        // 技能数据资源文件（存储所有技能的列表）```
+         └── LHSkillData.asset        // 技能数据资源文件（存储所有技能的列表）
