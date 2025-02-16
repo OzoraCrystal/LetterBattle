@@ -16,7 +16,7 @@
 | UI系统        | UGUI动静分离                   | 流畅的实时 UI 更新与反馈  |
 
 ## ⚙️ 项目导航
-/Assets
+```/Assets
   /Scripts
     ├── EnemyCombatController.cs      // 控制敌人的战斗流程与状态切换
     ├── EnemyStateMachine.cs          // 敌人状态机，管理状态转换（Idle、Selecting、Spelling、Attacking）
@@ -31,4 +31,4 @@
     └── Skill.prefab                  // 技能格预制体（供 UIManager 动态生成技能格使用）
   /Resources
     └── SkillData
-         └── LHSkillData.asset        // 技能数据资源文件（存储所有技能的列表）
+         └── LHSkillData.asset        // 技能数据资源文件（存储所有技能的列表）```
