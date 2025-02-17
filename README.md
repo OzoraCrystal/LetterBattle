@@ -41,8 +41,7 @@
 - **下载位置**：请前往 [Releases](https://github.com/OzoraCrystal/LetterBattle/releases/) 页面下载 Demo 压缩包。
 - **使用说明**：
   1. 下载压缩包后解压。
-  2. 根据解压后的说明文件运行 Demo。
-  3. 如遇到任何问题，请参阅项目文档或联系作者。
+  2. 运行LetterBattle.exe即可。
 
 ## 第三方资源
 
