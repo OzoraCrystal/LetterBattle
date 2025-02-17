@@ -32,16 +32,16 @@
   /Resources
     └── SkillData
          └── LHSkillData.asset        // 技能数据资源文件（存储所有技能的列表）
-
+```
 ## 第三方资源
 
 本项目中使用了以下第三方免费资源：
 
 - **Pixel Skies DEMO Background pack**  
-  免费资源，来自 Unity Asset Store。请参阅 [官方页面]https://assetstore.unity.com/packages/2d/environments/pixel-skies-demo-background-pack-226622#reviews)（搜索具体资源名称）了解详细许可信息。
+  免费资源，来自 Unity Asset Store。请参阅 [官方页面](https://assetstore.unity.com/packages/2d/environments/pixel-skies-demo-background-pack-226622#reviews)了解详细许可信息。
 
 - **Hero Knight - Pixel Art**  
-  免费资源，来自 Unity Asset Store。请参阅 [官方页面](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188#reviews)（搜索具体资源名称）了解详细许可信息。
+  免费资源，来自 Unity Asset Store。请参阅 [官方页面](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188#reviews)了解详细许可信息。
 
 以上资源均根据各自的许可协议使用，仅用于本项目开发与演示。项目代码仅公开核心部分，第三方资源文件不包含在内。
 
