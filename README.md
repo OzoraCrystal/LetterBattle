@@ -1,5 +1,5 @@
 # LetterBattle
-这是一个拼写字母游戏，实现了类似格斗游戏技能输入检测。
+这是一个拼写字母游戏demo（仅包含战斗部分），实现了类似格斗游戏技能输入检测。
 
 ### LetterBattle [演示视频（B站）](https://www.bilibili.com/video/BV1DWNne1EjU)
 
